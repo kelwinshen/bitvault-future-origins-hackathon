@@ -211,4 +211,4 @@ Using Hedera Consensus Service, BitVault gains a transparent, decentralized, and
 
 ---
 
-*Thank you for reviewing this integration. We welcome any questions or feedback.*
+*Thank you for reviewing this integration. I welcome any questions or feedback.*
