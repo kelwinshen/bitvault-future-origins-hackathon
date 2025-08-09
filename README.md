@@ -197,9 +197,9 @@ To see BitVault in action and experience the Hedera Consensus Service integratio
 
 ## Learn more from Pitchdeck
 
-To understand BitVault in Business from Pitchdeck:
+To understand BitVault in Business, you can Read Pitch Deck:
 
-[Pitchdeck](https://drive.google.com/file/d/1HxG1ON_mYZlnarNF2OpblvwY4v0GJ_NY/view?usp=sharing)
+[Read Pitch Deck](https://drive.google.com/file/d/1HxG1ON_mYZlnarNF2OpblvwY4v0GJ_NY/view?usp=sharing)
 
 
 
