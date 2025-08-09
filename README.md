@@ -170,7 +170,9 @@ Currently, Hedera Consensus Service integration is implemented for a subset of B
 
 To see how this works in practice, you can watch the demo video of the live BitVault platform showcasing HCS proofs in action.
 
-[Demo Video](https://bitvault.fun/en)
+[Demo Video](https://youtu.be/UB2XglL2R0o?si=MeK8XM9uZ8sv5eWp)
+
+
 ---
 
 ## Setup
@@ -191,6 +193,13 @@ HEDERA_TOPIC_ID=your-created-topic-id
 To see BitVault in action and experience the Hedera Consensus Service integration live, please visit:
 
 [https://bitvault.fun/en](https://bitvault.fun/en)
+
+
+## Learn more from Pitchdeck
+
+To understand BitVault in Business from Pitchdeck:
+
+[Pitchdeck](https://drive.google.com/file/d/1HxG1ON_mYZlnarNF2OpblvwY4v0GJ_NY/view?usp=sharing)
 
 
 
