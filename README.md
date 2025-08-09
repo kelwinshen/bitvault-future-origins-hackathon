@@ -170,6 +170,7 @@ Currently, Hedera Consensus Service integration is implemented for a subset of B
 
 To see how this works in practice, you can watch the demo video of the live BitVault platform showcasing HCS proofs in action.
 
+[Demo Video](https://bitvault.fun/en)
 ---
 
 ## Setup
